@@ -1,4 +1,7 @@
 # Game Client Programer 
+
+
+
 ## 끊임없이 성장하며 최고의 게임을 만들기 위해 도전하는 Game Client Programer입니다.
 
 - **게임 클라이언트 프로그래머로서 다양한 플랫폼에서 폭넓은 개발 경험을 쌓아왔습니다.**
@@ -6,7 +9,10 @@
 - **트랜드에 뒤쳐지지 않기 위해서 새로운 기술들을 학습하며, 개발 역량을 꾸준히 확장하고 있습니다.**
 - **앞으로도 최고의 게임을 만들기 위한 도전을 이어가며 더욱 발전하는 개발자가 되겠습니다.**
 
-## 포트폴리오 요약
+---
+## 포트폴리오 요약  
+
+---
 
 ### 1. Unreal Engine Counter-Strike Style Multiplayer FPS Game
 
@@ -125,7 +131,6 @@ Unity를 배우며 처음 제작한 RPG 게임 프로젝트로, 다양한 RPG �
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoBYP)](https://github.com/SeoBYP/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeoBYP)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SeoBYP/SeoBYP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
