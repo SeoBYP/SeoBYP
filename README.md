@@ -125,6 +125,7 @@ Unity를 배우며 처음 제작한 RPG 게임 프로젝트로, 다양한 RPG �
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoBYP)](https://github.com/SeoBYP/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeoBYP)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SeoBYP/SeoBYP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
