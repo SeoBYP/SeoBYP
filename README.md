@@ -27,7 +27,7 @@
 - **🎯 주력 · 게임 클라이언트 (Unity / C#)** — 입력·이동·전투·카메라·UI 등 게임플레이 시스템을 **MVI · VContainer · 상태머신** 기반으로 설계합니다. Locomotion FSM과 Action축 분리, **GAS(Attribute·Effect·ASC)**, 입력 버퍼/상태머신 분리, Addressable 런타임 로드, 대화 GraphView 같은 **에디터 저작툴**까지 직접 구현했습니다.
 - **🤖 강점 · AI 활용 / AI 에이전트 제작** — Claude API를 직접 호출해 Unity 에디터용 AI 에이전트를 **프레임워크 없이 바닥부터** 구현했고(아래 AgentOps), AI를 설계·구현·문서화 등 **개발 워크플로우에 적극 활용**합니다.
 - **📈 확장 중 · 게임 서버 / 백엔드** — 게임의 데이터 흐름을 끝까지 이해하기 위해 **공부하며 실전 프로젝트로 역량을 넓혀가는 중**입니다. 서버 권위 멀티플레이, 이중 서버(gRPC + TCP), Redis Streams + Outbox 서버 간 연동, Clean Architecture, PostgreSQL + Redis를 직접 구현해봤습니다.
-- 단위 / 통합(Testcontainers) / E2E 테스트로 회귀를 방지하는 개발을 지향하며, 현재 **OnewaveGames**에서 게임 클라이언트 + 백엔드 개발(주니어 프로그래머)을 담당하고 있습니다.
+- 단위 / 통합(Testcontainers) / E2E 테스트로 회귀를 방지하는 개발을 지향하며, 현재 **OnewaveGames**에서 게임 클라이언트을 담당하고 있습니다.
 
 ---
 
